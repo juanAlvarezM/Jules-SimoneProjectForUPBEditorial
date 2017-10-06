@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MyProyect/prototipo2/Scenas/Intro.unity
+    guid: 55f2e85a96fb5cd4fb332313bb557015
+  - enabled: 1
+    path: Assets/MyProyect/prototipo2/Scenas/Parte2.unity
+    guid: 0a2f1e6b3264f6a41b19c6e16c6291cb
+  - enabled: 1
+    path: Assets/MyProyect/prototipo2/Scenas/ARScaner.unity
+    guid: d1070ccaa6c4aee4b9e1761abb936bb1
+  - enabled: 1
+    path: Assets/MyProyect/prototipo2/Scenas/PruebaDesbloqueo/Desbloqueo.unity
+    guid: 21a64e6841a86f34195c8d37bddcb5fb
+  - enabled: 1
+    path: Assets/MyProyect/prototipo2/Scenas/PruebaDesbloqueo/Nivel1.unity
+    guid: 8ecb77784774ae046a9426ea2052a021
+  - enabled: 1
+    path: Assets/MyProyect/prototipo2/Scenas/PruebaDesbloqueo/Nivel2.unity
+    guid: e765e8a24d5bc6d45ba2a7a95be44c7f
+  - enabled: 1
+    path: Assets/MyProyect/prototipo2/Scenas/PruebaDesbloqueo/Nivel3.unity
+    guid: e38a92555391d044fbe6145e771a2308

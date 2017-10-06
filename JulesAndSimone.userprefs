@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MyProyect\prototipo2\scripts\NoDestruirAudio.cs">
+    <Files>
+      <File FileName="Assets\MyProyect\Scripts\Login.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyProyect\Scripts\Register.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyProyect\Scripts\CambioEscenas.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyProyect\prototipo2\scripts\ReproductorVideos.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyProyect\prototipo2\scripts\AnimacionCamara.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyProyect\prototipo2\scripts\activarYDesactivarPatron.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyProyect\prototipo2\scripts\ReproductorVideoscena2.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyProyect\prototipo2\scripts\animacionCamaraScena2.cs" Line="45" Column="6" />
+      <File FileName="Assets\MyProyect\prototipo2\scripts\ButtonSettings.cs" Line="9" Column="26" />
+      <File FileName="Assets\MyProyect\prototipo2\scripts\NoDestruirAudio.cs" Line="12" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
